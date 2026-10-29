@@ -1,0 +1,6 @@
+{
+  "name": "Lok Sabha KO: Street Yoddha",
+  "description": "Retro Neo Geo King of Fighters style 2D arcade fighting game featuring satirical archetypes of Indian politicians, protesters, bahubali goons, and media anchors with 3v3 team battles, dholak beats, combos, and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
